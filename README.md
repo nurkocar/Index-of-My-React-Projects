@@ -36,7 +36,7 @@
             <td>Recipe Blog</td>
             <td><a href="https://github.com/nurkocar/BlogProject-Frontend-React" target="_blank">Repo details</a></td>
             <td><a href="https://myrecipeblog.herokuapp.com/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./gifs/react.gif" alt="ProjectView" height=130></td> 
+            <td><img style="width:500px;" src="./images/RecipeBlog1.PNG" alt="ProjectView" height=130></td> 
         </tr>
         
 </tbody>
