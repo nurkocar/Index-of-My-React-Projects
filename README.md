@@ -29,7 +29,7 @@
         <tr>
             <td>Medium Clone MERN</td>
             <td><a href="https://github.com/nurkocar/medium-mern-project" target="_blank">Repo details</a></td>
-            <td><a href="https://github.com/nurkocar/Reusable-Component/blob/main/README.md" target="_blank">Click here to see the project</a></td>
+            <td><a href="https://medium-mern-clone.herokuapp.com/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/MediumClone.gif" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
